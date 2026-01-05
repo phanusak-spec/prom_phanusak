@@ -1,0 +1,40 @@
+.banner{
+    width: 100%;
+    max-width: 100%;
+}
+.banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.round-btn {
+    padding: 10px 20px;
+    background-color: rgb(255, 0, 0);
+    border-radius:  50px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #ffffff;
+}
+.navbar {
+  background: #0d4100;
+  padding: 12px;
+  display: flex;
+  gap: 20px;
+}
+.navbar a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.navbar a:hover {
+  color: #f50000;
+}
+body{
+  font-size: 20px;
+  background-color: #fff0b2;
+}
+h1 {
+  color: #0d4100;
+}
+h2 {
+color: #004916;
+}
